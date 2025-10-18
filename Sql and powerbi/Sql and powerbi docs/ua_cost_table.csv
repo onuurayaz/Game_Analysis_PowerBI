@@ -1,0 +1,501 @@
+ua_cost_id,user_id,network,country,campaign_type,event_time,ua_cost
+1,331,Facebook Ads,BR,Summer Sale,2025-04-01,0.9689999999999999
+2,78,Facebook Ads,DE,Summer Sale,2025-04-01,3.4509999999999996
+3,470,Facebook Ads,US,Summer Sale,2025-04-01,4.012
+4,97,organic,US,Summer Sale,2025-04-01,0.0
+5,425,Apple Search Ads,FR,Summer Sale,2025-04-01,4.3945
+6,481,Google Ads,US,Summer Sale,2025-04-01,3.5785
+7,157,organic,TR,Summer Sale,2025-04-01,0.0
+8,211,organic,US,Summer Sale,2025-04-01,0.0
+9,30,Google Ads,TR,Summer Sale,2025-04-01,1.0965
+10,231,Google Ads,US,Summer Sale,2025-04-01,3.2215
+11,249,Apple Search Ads,FR,Summer Sale,2025-04-01,2.9579999999999997
+12,361,Apple Search Ads,FR,Summer Sale,2025-04-01,5.0575
+13,209,organic,DE,Summer Sale,2025-04-01,0.0
+14,69,organic,DE,Summer Sale,2025-04-01,0.0
+15,292,organic,DE,Summer Sale,2025-04-01,0.0
+16,315,organic,US,Summer Sale,2025-04-01,0.0
+17,83,organic,TR,Summer Sale,2025-04-02,0.0
+18,92,Facebook Ads,BR,Summer Sale,2025-04-02,0.867
+19,96,organic,TR,Summer Sale,2025-04-02,0.0
+20,101,organic,US,Summer Sale,2025-04-02,0.0
+21,105,Apple Search Ads,US,Summer Sale,2025-04-02,3.4169999999999994
+22,107,organic,US,Summer Sale,2025-04-02,0.0
+23,443,Facebook Ads,FR,Summer Sale,2025-04-02,2.856
+24,479,Facebook Ads,FR,Summer Sale,2025-04-02,3.4595000000000002
+25,150,Google Ads,DE,Summer Sale,2025-04-02,4.0715
+26,320,organic,US,Summer Sale,2025-04-02,0.0
+27,198,Apple Search Ads,US,Summer Sale,2025-04-02,3.111
+28,319,organic,DE,Summer Sale,2025-04-02,0.0
+29,296,organic,US,Summer Sale,2025-04-02,0.0
+30,368,Apple Search Ads,US,Summer Sale,2025-04-02,4.156499999999999
+31,238,organic,US,Summer Sale,2025-04-02,0.0
+32,279,organic,US,Summer Sale,2025-04-02,0.0
+33,253,organic,US,Summer Sale,2025-04-02,0.0
+34,272,Google Ads,FR,Summer Sale,2025-04-02,3.8759999999999994
+35,203,organic,US,Summer Sale,2025-04-03,0.0
+36,55,Apple Search Ads,US,Summer Sale,2025-04-03,3.7994999999999997
+37,314,Google Ads,US,Summer Sale,2025-04-03,3.8165
+38,258,organic,TR,Summer Sale,2025-04-03,0.0
+39,122,Apple Search Ads,US,Summer Sale,2025-04-03,3.774
+40,3,Google Ads,US,Summer Sale,2025-04-03,3.3235
+41,477,Google Ads,US,Summer Sale,2025-04-03,2.754
+42,335,Apple Search Ads,FR,Summer Sale,2025-04-03,5.4145
+43,432,Facebook Ads,TR,Summer Sale,2025-04-03,1.496
+44,355,organic,BR,Summer Sale,2025-04-03,0.0
+45,321,organic,US,Summer Sale,2025-04-03,0.0
+46,468,organic,US,Summer Sale,2025-04-03,0.0
+47,294,Facebook Ads,DE,Summer Sale,2025-04-03,3.7655
+48,281,Facebook Ads,US,Summer Sale,2025-04-03,3.468
+49,154,Facebook Ads,US,Summer Sale,2025-04-03,2.941
+50,248,organic,US,Summer Sale,2025-04-03,0.0
+51,160,organic,TR,Summer Sale,2025-04-03,0.0
+52,458,Facebook Ads,TR,Summer Sale,2025-04-03,1.3515
+53,377,organic,TR,Summer Sale,2025-04-03,0.0
+54,201,Facebook Ads,BR,Summer Sale,2025-04-03,0.731
+55,397,organic,DE,Summer Sale,2025-04-03,0.0
+56,343,Google Ads,TR,Summer Sale,2025-04-03,1.1560000000000001
+57,336,Facebook Ads,DE,Summer Sale,2025-04-04,3.9525
+58,129,organic,US,Summer Sale,2025-04-04,0.0
+59,438,Facebook Ads,FR,Summer Sale,2025-04-04,3.4764999999999997
+60,373,Google Ads,TR,Summer Sale,2025-04-04,1.2665
+61,420,Apple Search Ads,TR,Summer Sale,2025-04-04,2.0995
+62,181,Apple Search Ads,US,Summer Sale,2025-04-04,4.6495
+63,72,organic,US,Summer Sale,2025-04-04,0.0
+64,239,Apple Search Ads,US,Summer Sale,2025-04-04,4.4795
+65,219,Facebook Ads,BR,Summer Sale,2025-04-04,0.935
+66,440,Facebook Ads,US,Summer Sale,2025-04-04,3.672
+67,350,organic,DE,Summer Sale,2025-04-04,0.0
+68,250,Facebook Ads,US,Summer Sale,2025-04-04,5.729
+69,476,Facebook Ads,BR,Summer Sale,2025-04-04,0.629
+70,19,Apple Search Ads,US,Summer Sale,2025-04-04,3.6125
+71,28,Google Ads,US,Summer Sale,2025-04-04,3.995
+72,50,organic,DE,Summer Sale,2025-04-05,0.0
+73,182,organic,BR,Summer Sale,2025-04-05,0.0
+74,54,Facebook Ads,FR,Summer Sale,2025-04-05,2.635
+75,100,organic,FR,Summer Sale,2025-04-05,0.0
+76,58,organic,TR,Summer Sale,2025-04-05,0.0
+77,214,Facebook Ads,TR,Summer Sale,2025-04-05,1.87
+78,257,organic,BR,Summer Sale,2025-04-05,0.0
+79,218,Facebook Ads,DE,Summer Sale,2025-04-05,4.896
+80,170,organic,FR,Summer Sale,2025-04-05,0.0
+81,246,Facebook Ads,TR,Summer Sale,2025-04-05,1.9040000000000001
+82,308,Google Ads,US,Summer Sale,2025-04-05,3.23
+83,467,Apple Search Ads,US,Summer Sale,2025-04-05,5.015000000000001
+84,464,Facebook Ads,US,Summer Sale,2025-04-05,3.23
+85,417,organic,FR,Summer Sale,2025-04-06,0.0
+86,161,Google Ads,DE,Summer Sale,2025-04-06,5.0405
+87,118,Google Ads,DE,Summer Sale,2025-04-06,6.0095
+88,362,organic,DE,Summer Sale,2025-04-06,0.0
+89,196,Google Ads,US,Summer Sale,2025-04-06,3.1790000000000003
+90,15,Facebook Ads,US,Summer Sale,2025-04-06,4.1735
+91,266,organic,US,Summer Sale,2025-04-06,0.0
+92,241,Google Ads,FR,Summer Sale,2025-04-06,2.431
+93,389,Apple Search Ads,DE,Summer Sale,2025-04-06,3.655
+94,327,organic,US,Summer Sale,2025-04-06,0.0
+95,208,organic,US,Summer Sale,2025-04-06,0.0
+96,33,organic,DE,Summer Sale,2025-04-06,0.0
+97,95,organic,DE,Summer Sale,2025-04-06,0.0
+98,264,organic,TR,Summer Sale,2025-04-06,0.0
+99,371,Apple Search Ads,FR,Summer Sale,2025-04-06,4.054499999999999
+100,93,Facebook Ads,US,Summer Sale,2025-04-06,2.55
+101,340,organic,US,Summer Sale,2025-04-06,0.0
+102,221,Apple Search Ads,US,Summer Sale,2025-04-06,4.054499999999999
+103,42,Facebook Ads,US,Summer Sale,2025-04-07,3.5785
+104,404,Facebook Ads,US,Summer Sale,2025-04-07,2.788
+105,112,organic,DE,Summer Sale,2025-04-07,0.0
+106,199,Facebook Ads,BR,Summer Sale,2025-04-07,0.8925
+107,75,Apple Search Ads,US,Summer Sale,2025-04-07,5.3125
+108,88,organic,TR,Summer Sale,2025-04-07,0.0
+109,326,organic,TR,Summer Sale,2025-04-07,0.0
+110,162,organic,TR,Summer Sale,2025-04-07,0.0
+111,2,Facebook Ads,TR,Summer Sale,2025-04-07,1.9295
+112,32,Facebook Ads,DE,Summer Sale,2025-04-07,3.7569999999999997
+113,125,Facebook Ads,US,Summer Sale,2025-04-07,3.247
+114,353,organic,FR,Summer Sale,2025-04-07,0.0
+115,332,Facebook Ads,DE,Summer Sale,2025-04-08,3.315
+116,322,organic,US,Summer Sale,2025-04-08,0.0
+117,421,organic,DE,Summer Sale,2025-04-08,0.0
+118,135,Facebook Ads,BR,Summer Sale,2025-04-08,0.8755
+119,155,Facebook Ads,US,Summer Sale,2025-04-08,2.4395000000000002
+120,145,organic,US,Summer Sale,2025-04-08,0.0
+121,184,Apple Search Ads,FR,Summer Sale,2025-04-08,5.474
+122,176,Facebook Ads,US,Summer Sale,2025-04-08,5.406
+123,375,organic,DE,Summer Sale,2025-04-08,0.0
+124,207,Facebook Ads,DE,Summer Sale,2025-04-08,2.9579999999999997
+125,213,organic,FR,Summer Sale,2025-04-08,0.0
+126,499,organic,US,Summer Sale,2025-04-08,0.0
+127,482,organic,FR,Summer Sale,2025-04-08,0.0
+128,385,Facebook Ads,US,Summer Sale,2025-04-08,5.2955000000000005
+129,117,organic,BR,Summer Sale,2025-04-08,0.0
+130,442,organic,US,Summer Sale,2025-04-08,0.0
+131,486,organic,US,Summer Sale,2025-04-08,0.0
+132,191,organic,US,Summer Sale,2025-04-08,0.0
+133,493,organic,DE,Summer Sale,2025-04-09,0.0
+134,297,organic,DE,Summer Sale,2025-04-09,0.0
+135,144,Facebook Ads,DE,Summer Sale,2025-04-09,5.4825
+136,225,organic,DE,Summer Sale,2025-04-09,0.0
+137,276,organic,US,Summer Sale,2025-04-09,0.0
+138,424,organic,US,Summer Sale,2025-04-09,0.0
+139,87,Facebook Ads,DE,Summer Sale,2025-04-09,5.27
+140,328,Facebook Ads,BR,Summer Sale,2025-04-09,1.0795
+141,262,Facebook Ads,FR,Summer Sale,2025-04-09,2.5925
+142,68,organic,US,Summer Sale,2025-04-09,0.0
+143,475,organic,US,Summer Sale,2025-04-09,0.0
+144,437,organic,US,Summer Sale,2025-04-09,0.0
+145,186,Apple Search Ads,FR,Summer Sale,2025-04-09,5.1765
+146,354,Facebook Ads,FR,Summer Sale,2025-04-09,2.465
+147,400,Facebook Ads,FR,Summer Sale,2025-04-09,4.471
+148,433,organic,TR,Summer Sale,2025-04-09,0.0
+149,444,organic,DE,Summer Sale,2025-04-09,0.0
+150,17,organic,DE,Summer Sale,2025-04-09,0.0
+151,180,Facebook Ads,DE,Summer Sale,2025-04-09,2.8985
+152,448,Google Ads,US,Summer Sale,2025-04-09,5.321
+153,406,organic,US,Summer Sale,2025-04-09,0.0
+154,473,Google Ads,US,Summer Sale,2025-04-09,2.142
+155,193,organic,US,Summer Sale,2025-04-10,0.0
+156,398,organic,US,Summer Sale,2025-04-10,0.0
+157,8,Google Ads,TR,Summer Sale,2025-04-10,1.785
+158,175,Facebook Ads,FR,Summer Sale,2025-04-10,3.706
+159,158,Google Ads,US,Summer Sale,2025-04-10,2.3375
+160,98,organic,US,Summer Sale,2025-04-10,0.0
+161,12,Apple Search Ads,DE,Summer Sale,2025-04-10,5.865
+162,73,organic,DE,Summer Sale,2025-04-10,0.0
+163,44,Facebook Ads,US,Summer Sale,2025-04-10,3.8505000000000003
+164,121,Google Ads,TR,Summer Sale,2025-04-10,1.4024999999999999
+165,106,organic,TR,Summer Sale,2025-04-10,0.0
+166,302,Apple Search Ads,DE,Holiday Promo,2025-04-11,5.368
+167,430,Google Ads,US,Holiday Promo,2025-04-11,5.4670000000000005
+168,217,organic,US,Holiday Promo,2025-04-11,0.0
+169,25,Apple Search Ads,TR,Holiday Promo,2025-04-11,1.4740000000000002
+170,86,organic,US,Holiday Promo,2025-04-11,0.0
+171,172,Apple Search Ads,FR,Holiday Promo,2025-04-11,5.4670000000000005
+172,37,organic,US,Holiday Promo,2025-04-11,0.0
+173,271,Facebook Ads,TR,Holiday Promo,2025-04-11,1.9800000000000002
+174,168,Facebook Ads,BR,Holiday Promo,2025-04-11,0.8250000000000001
+175,459,organic,DE,Holiday Promo,2025-04-11,0.0
+176,227,organic,TR,Holiday Promo,2025-04-11,0.0
+177,310,Google Ads,US,Holiday Promo,2025-04-11,4.18
+178,206,Facebook Ads,US,Holiday Promo,2025-04-11,5.489000000000001
+179,21,Facebook Ads,US,Holiday Promo,2025-04-11,5.632000000000001
+180,114,Facebook Ads,US,Holiday Promo,2025-04-12,5.83
+181,282,Facebook Ads,BR,Holiday Promo,2025-04-12,1.6610000000000003
+182,16,Apple Search Ads,US,Holiday Promo,2025-04-12,4.6530000000000005
+183,351,Google Ads,US,Holiday Promo,2025-04-12,6.127000000000001
+184,65,organic,FR,Holiday Promo,2025-04-12,0.0
+185,197,Apple Search Ads,US,Holiday Promo,2025-04-12,6.314000000000001
+186,469,Google Ads,US,Holiday Promo,2025-04-12,4.939000000000001
+187,489,organic,TR,Holiday Promo,2025-04-12,0.0
+188,156,Facebook Ads,BR,Holiday Promo,2025-04-12,0.8910000000000001
+189,487,organic,DE,Holiday Promo,2025-04-12,0.0
+190,274,organic,BR,Holiday Promo,2025-04-12,0.0
+191,275,organic,FR,Holiday Promo,2025-04-12,0.0
+192,309,organic,US,Holiday Promo,2025-04-12,0.0
+193,226,Facebook Ads,US,Holiday Promo,2025-04-12,6.248
+194,174,organic,FR,Holiday Promo,2025-04-12,0.0
+195,269,Facebook Ads,US,Holiday Promo,2025-04-12,5.313000000000001
+196,46,Facebook Ads,TR,Holiday Promo,2025-04-12,2.4640000000000004
+197,457,Facebook Ads,DE,Holiday Promo,2025-04-12,5.401000000000001
+198,357,Apple Search Ads,FR,Holiday Promo,2025-04-13,2.2880000000000003
+199,14,organic,US,Holiday Promo,2025-04-13,0.0
+200,202,organic,TR,Holiday Promo,2025-04-13,0.0
+201,403,organic,FR,Holiday Promo,2025-04-13,0.0
+202,18,Facebook Ads,FR,Holiday Promo,2025-04-13,4.631
+203,237,Google Ads,TR,Holiday Promo,2025-04-13,1.4520000000000002
+204,232,organic,DE,Holiday Promo,2025-04-13,0.0
+205,483,Facebook Ads,TR,Holiday Promo,2025-04-13,2.387
+206,372,organic,US,Holiday Promo,2025-04-14,0.0
+207,94,Facebook Ads,US,Holiday Promo,2025-04-14,4.059
+208,395,organic,TR,Holiday Promo,2025-04-14,0.0
+209,222,organic,US,Holiday Promo,2025-04-14,0.0
+210,349,Apple Search Ads,FR,Holiday Promo,2025-04-14,4.213
+211,347,organic,US,Holiday Promo,2025-04-14,0.0
+212,490,organic,DE,Holiday Promo,2025-04-14,0.0
+213,370,organic,DE,Holiday Promo,2025-04-14,0.0
+214,415,Facebook Ads,TR,Holiday Promo,2025-04-14,1.617
+215,429,Facebook Ads,DE,Holiday Promo,2025-04-14,7.3260000000000005
+216,141,Google Ads,TR,Holiday Promo,2025-04-14,2.2
+217,380,Facebook Ads,TR,Holiday Promo,2025-04-14,3.2230000000000003
+218,405,Facebook Ads,DE,Holiday Promo,2025-04-14,6.314000000000001
+219,435,organic,DE,Holiday Promo,2025-04-14,0.0
+220,460,Facebook Ads,FR,Holiday Promo,2025-04-14,3.971
+221,130,organic,TR,Holiday Promo,2025-04-14,0.0
+222,190,Facebook Ads,FR,Holiday Promo,2025-04-14,4.29
+223,228,organic,BR,Holiday Promo,2025-04-14,0.0
+224,446,organic,TR,Holiday Promo,2025-04-14,0.0
+225,6,Facebook Ads,US,Holiday Promo,2025-04-14,3.058
+226,387,Facebook Ads,US,Holiday Promo,2025-04-14,6.083000000000001
+227,48,organic,TR,Holiday Promo,2025-04-14,0.0
+228,299,Facebook Ads,US,Holiday Promo,2025-04-15,5.148
+229,492,organic,US,Holiday Promo,2025-04-15,0.0
+230,40,organic,TR,Holiday Promo,2025-04-15,0.0
+231,188,organic,TR,Holiday Promo,2025-04-15,0.0
+232,273,Facebook Ads,FR,Holiday Promo,2025-04-15,3.7730000000000006
+233,413,organic,BR,Holiday Promo,2025-04-15,0.0
+234,358,organic,TR,Holiday Promo,2025-04-15,0.0
+235,137,Google Ads,US,Holiday Promo,2025-04-15,4.4110000000000005
+236,133,organic,DE,Holiday Promo,2025-04-15,0.0
+237,325,Apple Search Ads,DE,Holiday Promo,2025-04-15,7.832000000000001
+238,312,Google Ads,FR,Holiday Promo,2025-04-15,5.258000000000001
+239,187,Facebook Ads,BR,Holiday Promo,2025-04-15,1.034
+240,116,Facebook Ads,DE,Holiday Promo,2025-04-15,4.807
+241,339,organic,BR,Holiday Promo,2025-04-15,0.0
+242,34,organic,US,Holiday Promo,2025-04-15,0.0
+243,491,organic,FR,Holiday Promo,2025-04-15,0.0
+244,485,organic,US,Holiday Promo,2025-04-15,0.0
+245,341,organic,US,Holiday Promo,2025-04-15,0.0
+246,286,Facebook Ads,FR,Holiday Promo,2025-04-16,3.9820000000000007
+247,9,organic,DE,Holiday Promo,2025-04-16,0.0
+248,200,organic,TR,Holiday Promo,2025-04-16,0.0
+249,305,Facebook Ads,US,Holiday Promo,2025-04-16,5.016
+250,109,Facebook Ads,US,Holiday Promo,2025-04-16,3.4760000000000004
+251,108,Facebook Ads,FR,Holiday Promo,2025-04-16,5.159000000000001
+252,318,Facebook Ads,FR,Holiday Promo,2025-04-16,4.378
+253,103,Google Ads,US,Holiday Promo,2025-04-16,2.9920000000000004
+254,10,organic,FR,Holiday Promo,2025-04-16,0.0
+255,189,organic,DE,Holiday Promo,2025-04-16,0.0
+256,216,organic,BR,Holiday Promo,2025-04-16,0.0
+257,451,organic,US,Holiday Promo,2025-04-16,0.0
+258,455,organic,BR,Holiday Promo,2025-04-16,0.0
+259,465,Apple Search Ads,TR,Holiday Promo,2025-04-16,2.761
+260,230,organic,DE,Holiday Promo,2025-04-16,0.0
+261,392,organic,TR,Holiday Promo,2025-04-16,0.0
+262,41,Facebook Ads,DE,Holiday Promo,2025-04-16,5.214
+263,91,Apple Search Ads,DE,Holiday Promo,2025-04-17,4.477
+264,60,Facebook Ads,BR,Holiday Promo,2025-04-17,1.8920000000000001
+265,454,Facebook Ads,DE,Holiday Promo,2025-04-17,7.590000000000001
+266,149,Google Ads,FR,Holiday Promo,2025-04-17,4.675000000000001
+267,352,Facebook Ads,FR,Holiday Promo,2025-04-17,4.125
+268,79,organic,DE,Holiday Promo,2025-04-17,0.0
+269,307,Facebook Ads,DE,Holiday Promo,2025-04-17,5.434000000000001
+270,124,Google Ads,BR,Holiday Promo,2025-04-17,0.781
+271,478,Facebook Ads,TR,Holiday Promo,2025-04-17,1.4410000000000003
+272,422,Facebook Ads,US,Holiday Promo,2025-04-17,6.38
+273,90,organic,DE,Holiday Promo,2025-04-17,0.0
+274,383,Apple Search Ads,DE,Holiday Promo,2025-04-17,6.347
+275,167,Google Ads,US,Holiday Promo,2025-04-18,3.0690000000000004
+276,29,organic,FR,Holiday Promo,2025-04-18,0.0
+277,70,organic,TR,Holiday Promo,2025-04-18,0.0
+278,23,Apple Search Ads,US,Holiday Promo,2025-04-18,5.742
+279,300,Facebook Ads,US,Holiday Promo,2025-04-18,4.642
+280,461,organic,US,Holiday Promo,2025-04-18,0.0
+281,35,organic,TR,Holiday Promo,2025-04-18,0.0
+282,192,Facebook Ads,TR,Holiday Promo,2025-04-18,2.9040000000000004
+283,265,organic,US,Holiday Promo,2025-04-18,0.0
+284,205,organic,TR,Holiday Promo,2025-04-18,0.0
+285,359,organic,FR,Holiday Promo,2025-04-18,0.0
+286,53,Apple Search Ads,FR,Holiday Promo,2025-04-18,4.9830000000000005
+287,169,organic,US,Holiday Promo,2025-04-19,0.0
+288,378,Facebook Ads,TR,Holiday Promo,2025-04-19,2.5850000000000004
+289,360,Facebook Ads,DE,Holiday Promo,2025-04-19,3.8280000000000003
+290,298,organic,US,Holiday Promo,2025-04-19,0.0
+291,394,Facebook Ads,US,Holiday Promo,2025-04-19,3.861
+292,171,Facebook Ads,US,Holiday Promo,2025-04-19,5.577000000000001
+293,412,organic,FR,Holiday Promo,2025-04-19,0.0
+294,267,organic,DE,Holiday Promo,2025-04-19,0.0
+295,396,Google Ads,DE,Holiday Promo,2025-04-19,6.1930000000000005
+296,399,Facebook Ads,US,Holiday Promo,2025-04-19,5.104
+297,61,Google Ads,US,Holiday Promo,2025-04-19,4.9719999999999995
+298,494,organic,US,Holiday Promo,2025-04-19,0.0
+299,123,Google Ads,TR,Holiday Promo,2025-04-19,2.431
+300,110,organic,TR,Holiday Promo,2025-04-19,0.0
+301,224,Apple Search Ads,US,Holiday Promo,2025-04-19,3.8280000000000003
+302,62,Apple Search Ads,US,Holiday Promo,2025-04-19,6.226000000000001
+303,329,Facebook Ads,FR,Holiday Promo,2025-04-20,3.718
+304,496,Facebook Ads,DE,Holiday Promo,2025-04-20,6.028000000000001
+305,316,Facebook Ads,BR,Holiday Promo,2025-04-20,1.3860000000000001
+306,466,organic,TR,Holiday Promo,2025-04-20,0.0
+307,163,organic,BR,Holiday Promo,2025-04-20,0.0
+308,127,organic,US,Holiday Promo,2025-04-20,0.0
+309,131,Facebook Ads,FR,Holiday Promo,2025-04-20,4.928000000000001
+310,139,organic,BR,Holiday Promo,2025-04-20,0.0
+311,427,organic,TR,Holiday Promo,2025-04-20,0.0
+312,159,Google Ads,US,Holiday Promo,2025-04-20,4.037
+313,38,Facebook Ads,DE,Holiday Promo,2025-04-20,4.213
+314,402,organic,US,Holiday Promo,2025-04-20,0.0
+315,195,organic,US,Holiday Promo,2025-04-20,0.0
+316,414,organic,US,Holiday Promo,2025-04-20,0.0
+317,252,organic,US,Holiday Promo,2025-04-20,0.0
+318,22,organic,BR,Holiday Promo,2025-04-20,0.0
+319,263,organic,US,Holiday Promo,2025-04-20,0.0
+320,348,organic,US,Holiday Promo,2025-04-20,0.0
+321,295,Google Ads,US,Holiday Promo,2025-04-20,5.049
+322,382,organic,FR,Holiday Promo,2025-04-20,0.0
+323,374,organic,FR,Spring Offer,2025-04-21,0.0
+324,342,organic,TR,Spring Offer,2025-04-21,0.0
+325,418,organic,TR,Spring Offer,2025-04-21,0.0
+326,431,organic,TR,Spring Offer,2025-04-21,0.0
+327,346,organic,US,Spring Offer,2025-04-21,0.0
+328,471,Facebook Ads,US,Spring Offer,2025-04-21,3.002
+329,462,Facebook Ads,TR,Spring Offer,2025-04-21,2.2895
+330,463,organic,FR,Spring Offer,2025-04-21,0.0
+331,345,Facebook Ads,BR,Spring Offer,2025-04-21,0.8929999999999999
+332,500,Google Ads,US,Spring Offer,2025-04-21,2.7835
+333,277,organic,DE,Spring Offer,2025-04-21,0.0
+334,126,Facebook Ads,DE,Spring Offer,2025-04-21,5.4055
+335,52,Facebook Ads,DE,Spring Offer,2025-04-21,9.9465
+336,234,organic,TR,Spring Offer,2025-04-21,0.0
+337,99,Facebook Ads,US,Spring Offer,2025-04-21,2.2895
+338,64,organic,US,Spring Offer,2025-04-21,0.0
+339,235,Facebook Ads,US,Spring Offer,2025-04-21,4.465
+340,71,organic,TR,Spring Offer,2025-04-21,0.0
+341,27,Google Ads,US,Spring Offer,2025-04-21,2.4985
+342,136,organic,US,Spring Offer,2025-04-21,0.0
+343,287,organic,DE,Spring Offer,2025-04-21,0.0
+344,43,organic,TR,Spring Offer,2025-04-21,0.0
+345,293,Facebook Ads,TR,Spring Offer,2025-04-21,1.311
+346,183,Facebook Ads,DE,Spring Offer,2025-04-21,5.662
+347,89,Apple Search Ads,TR,Spring Offer,2025-04-22,1.8144999999999998
+348,76,organic,US,Spring Offer,2025-04-22,0.0
+349,132,organic,US,Spring Offer,2025-04-22,0.0
+350,391,organic,US,Spring Offer,2025-04-22,0.0
+351,102,Apple Search Ads,US,Spring Offer,2025-04-22,5.1395
+352,280,organic,FR,Spring Offer,2025-04-22,0.0
+353,138,organic,US,Spring Offer,2025-04-22,0.0
+354,447,Facebook Ads,TR,Spring Offer,2025-04-22,0.855
+355,113,organic,TR,Spring Offer,2025-04-22,0.0
+356,223,organic,US,Spring Offer,2025-04-22,0.0
+357,306,Google Ads,FR,Spring Offer,2025-04-22,2.5934999999999997
+358,488,Facebook Ads,TR,Spring Offer,2025-04-22,2.1755
+359,11,organic,FR,Spring Offer,2025-04-22,0.0
+360,498,organic,US,Spring Offer,2025-04-22,0.0
+361,409,Facebook Ads,US,Spring Offer,2025-04-23,3.2965
+362,185,organic,US,Spring Offer,2025-04-23,0.0
+363,212,organic,US,Spring Offer,2025-04-23,0.0
+364,229,Apple Search Ads,FR,Spring Offer,2025-04-23,4.294
+365,390,organic,BR,Spring Offer,2025-04-23,0.0
+366,244,Google Ads,US,Spring Offer,2025-04-23,4.826
+367,164,Facebook Ads,TR,Spring Offer,2025-04-23,2.8689999999999998
+368,333,organic,TR,Spring Offer,2025-04-23,0.0
+369,450,Facebook Ads,TR,Spring Offer,2025-04-23,1.349
+370,334,Apple Search Ads,DE,Spring Offer,2025-04-23,4.617
+371,4,Facebook Ads,US,Spring Offer,2025-04-23,4.1705
+372,304,Facebook Ads,US,Spring Offer,2025-04-23,5.643
+373,484,organic,TR,Spring Offer,2025-04-23,0.0
+374,56,organic,US,Spring Offer,2025-04-23,0.0
+375,233,organic,TR,Spring Offer,2025-04-23,0.0
+376,77,organic,US,Spring Offer,2025-04-23,0.0
+377,365,Facebook Ads,BR,Spring Offer,2025-04-23,0.8265
+378,426,Apple Search Ads,US,Spring Offer,2025-04-24,5.6335
+379,115,Facebook Ads,US,Spring Offer,2025-04-24,3.154
+380,7,Facebook Ads,TR,Spring Offer,2025-04-24,1.064
+381,20,organic,BR,Spring Offer,2025-04-24,0.0
+382,80,Apple Search Ads,TR,Spring Offer,2025-04-24,2.6315
+383,134,organic,FR,Spring Offer,2025-04-24,0.0
+384,36,Facebook Ads,US,Spring Offer,2025-04-24,2.6599999999999997
+385,39,organic,US,Spring Offer,2025-04-24,0.0
+386,480,organic,FR,Spring Offer,2025-04-24,0.0
+387,177,Facebook Ads,US,Spring Offer,2025-04-24,4.845
+388,449,Apple Search Ads,US,Spring Offer,2025-04-24,5.0255
+389,47,organic,FR,Spring Offer,2025-04-24,0.0
+390,152,Google Ads,US,Spring Offer,2025-04-24,3.762
+391,59,organic,FR,Spring Offer,2025-04-24,0.0
+392,173,Facebook Ads,FR,Spring Offer,2025-04-24,6.84
+393,416,Apple Search Ads,DE,Spring Offer,2025-04-24,4.6265
+394,289,organic,US,Spring Offer,2025-04-24,0.0
+395,386,organic,TR,Spring Offer,2025-04-24,0.0
+396,323,Google Ads,DE,Spring Offer,2025-04-24,3.306
+397,278,Apple Search Ads,TR,Spring Offer,2025-04-24,2.2135
+398,369,organic,US,Spring Offer,2025-04-24,0.0
+399,151,Facebook Ads,US,Spring Offer,2025-04-25,5.433999999999999
+400,428,Apple Search Ads,TR,Spring Offer,2025-04-25,1.5105
+401,247,organic,US,Spring Offer,2025-04-25,0.0
+402,303,organic,US,Spring Offer,2025-04-25,0.0
+403,344,Facebook Ads,DE,Spring Offer,2025-04-25,4.398499999999999
+404,165,organic,BR,Spring Offer,2025-04-25,0.0
+405,251,Facebook Ads,TR,Spring Offer,2025-04-25,2.0995
+406,410,Google Ads,US,Spring Offer,2025-04-25,3.078
+407,49,Google Ads,US,Spring Offer,2025-04-25,4.4079999999999995
+408,26,organic,US,Spring Offer,2025-04-25,0.0
+409,66,Facebook Ads,TR,Spring Offer,2025-04-25,1.3395
+410,13,Apple Search Ads,BR,Spring Offer,2025-04-25,0.76
+411,384,organic,FR,Spring Offer,2025-04-25,0.0
+412,338,Facebook Ads,US,Spring Offer,2025-04-25,4.636
+413,74,organic,FR,Spring Offer,2025-04-25,0.0
+414,393,organic,FR,Spring Offer,2025-04-25,0.0
+415,104,Apple Search Ads,US,Spring Offer,2025-04-25,5.244
+416,270,organic,US,Spring Offer,2025-04-25,0.0
+417,63,Facebook Ads,FR,Spring Offer,2025-04-25,3.3914999999999997
+418,128,organic,TR,Spring Offer,2025-04-26,0.0
+419,57,Facebook Ads,DE,Spring Offer,2025-04-26,4.2749999999999995
+420,285,organic,DE,Spring Offer,2025-04-26,0.0
+421,254,organic,US,Spring Offer,2025-04-26,0.0
+422,51,Google Ads,BR,Spring Offer,2025-04-26,0.9119999999999999
+423,388,organic,US,Spring Offer,2025-04-26,0.0
+424,146,Google Ads,FR,Spring Offer,2025-04-26,2.489
+425,85,Apple Search Ads,BR,Spring Offer,2025-04-26,1.6909999999999998
+426,148,Facebook Ads,FR,Spring Offer,2025-04-26,4.218
+427,290,organic,TR,Spring Offer,2025-04-26,0.0
+428,301,organic,BR,Spring Offer,2025-04-26,0.0
+429,495,Facebook Ads,FR,Spring Offer,2025-04-26,5.5765
+430,337,organic,US,Spring Offer,2025-04-26,0.0
+431,24,Apple Search Ads,US,Spring Offer,2025-04-26,3.1825
+432,242,Facebook Ads,DE,Spring Offer,2025-04-26,4.1705
+433,45,Google Ads,BR,Spring Offer,2025-04-26,0.532
+434,363,Facebook Ads,US,Spring Offer,2025-04-27,6.2795
+435,364,Facebook Ads,TR,Spring Offer,2025-04-27,1.8904999999999998
+436,366,organic,BR,Spring Offer,2025-04-27,0.0
+437,367,Facebook Ads,US,Spring Offer,2025-04-27,4.56
+438,204,organic,TR,Spring Offer,2025-04-27,0.0
+439,313,Facebook Ads,US,Spring Offer,2025-04-27,4.7785
+440,120,organic,DE,Spring Offer,2025-04-27,0.0
+441,407,Google Ads,BR,Spring Offer,2025-04-27,0.5984999999999999
+442,31,organic,US,Spring Offer,2025-04-27,0.0
+443,381,organic,DE,Spring Offer,2025-04-27,0.0
+444,434,Facebook Ads,DE,Spring Offer,2025-04-27,4.503
+445,243,Facebook Ads,FR,Spring Offer,2025-04-27,2.3465000000000003
+446,166,Google Ads,FR,Spring Offer,2025-04-27,4.0375
+447,142,organic,FR,Spring Offer,2025-04-27,0.0
+448,245,Facebook Ads,TR,Spring Offer,2025-04-27,1.5295
+449,439,organic,TR,Spring Offer,2025-04-27,0.0
+450,283,Facebook Ads,TR,Spring Offer,2025-04-28,2.318
+451,356,Google Ads,US,Spring Offer,2025-04-28,3.9614999999999996
+452,5,Google Ads,US,Spring Offer,2025-04-28,2.7645
+453,288,organic,DE,Spring Offer,2025-04-28,0.0
+454,324,organic,FR,Spring Offer,2025-04-28,0.0
+455,268,organic,TR,Spring Offer,2025-04-28,0.0
+456,84,Google Ads,TR,Spring Offer,2025-04-28,1.7005
+457,260,Facebook Ads,TR,Spring Offer,2025-04-28,1.5579999999999998
+458,1,organic,TR,Spring Offer,2025-04-28,0.0
+459,330,organic,US,Spring Offer,2025-04-28,0.0
+460,411,organic,US,Spring Offer,2025-04-28,0.0
+461,408,Google Ads,US,Spring Offer,2025-04-28,3.0875
+462,178,organic,TR,Spring Offer,2025-04-28,0.0
+463,441,Apple Search Ads,US,Spring Offer,2025-04-28,5.2345
+464,119,organic,TR,Spring Offer,2025-04-28,0.0
+465,147,Facebook Ads,US,Spring Offer,2025-04-28,3.5435
+466,179,Facebook Ads,US,Spring Offer,2025-04-28,3.8285
+467,240,organic,TR,Spring Offer,2025-04-28,0.0
+468,194,Facebook Ads,US,Spring Offer,2025-04-28,4.161
+469,401,organic,TR,Spring Offer,2025-04-28,0.0
+470,210,Apple Search Ads,DE,Spring Offer,2025-04-28,4.7785
+471,215,Facebook Ads,US,Spring Offer,2025-04-28,3.477
+472,140,Facebook Ads,BR,Spring Offer,2025-04-28,0.95
+473,497,Facebook Ads,BR,Spring Offer,2025-04-29,1.3679999999999999
+474,419,organic,US,Spring Offer,2025-04-29,0.0
+475,317,Facebook Ads,US,Spring Offer,2025-04-29,3.9139999999999997
+476,261,organic,TR,Spring Offer,2025-04-29,0.0
+477,474,organic,TR,Spring Offer,2025-04-29,0.0
+478,82,organic,US,Spring Offer,2025-04-29,0.0
+479,81,Facebook Ads,US,Spring Offer,2025-04-29,4.2844999999999995
+480,472,Facebook Ads,FR,Spring Offer,2025-04-29,1.9854999999999998
+481,452,Facebook Ads,US,Spring Offer,2025-04-29,2.9734999999999996
+482,111,Google Ads,FR,Spring Offer,2025-04-29,4.0185
+483,445,Google Ads,FR,Spring Offer,2025-04-29,3.268
+484,143,Facebook Ads,TR,Spring Offer,2025-04-29,1.0924999999999998
+485,67,organic,DE,Spring Offer,2025-04-29,0.0
+486,259,organic,US,Spring Offer,2025-04-29,0.0
+487,376,Google Ads,TR,Spring Offer,2025-04-30,1.6244999999999998
+488,220,organic,US,Spring Offer,2025-04-30,0.0
+489,236,organic,FR,Spring Offer,2025-04-30,0.0
+490,453,Google Ads,TR,Spring Offer,2025-04-30,1.8524999999999998
+491,256,organic,FR,Spring Offer,2025-04-30,0.0
+492,311,organic,DE,Spring Offer,2025-04-30,0.0
+493,436,organic,FR,Spring Offer,2025-04-30,0.0
+494,379,organic,US,Spring Offer,2025-04-30,0.0
+495,153,Facebook Ads,US,Spring Offer,2025-04-30,4.6834999999999996
+496,291,organic,US,Spring Offer,2025-04-30,0.0
+497,255,Facebook Ads,BR,Spring Offer,2025-04-30,0.703
+498,456,Apple Search Ads,BR,Spring Offer,2025-04-30,1.1115
+499,284,organic,DE,Spring Offer,2025-04-30,0.0
+500,423,organic,DE,Spring Offer,2025-04-30,0.0

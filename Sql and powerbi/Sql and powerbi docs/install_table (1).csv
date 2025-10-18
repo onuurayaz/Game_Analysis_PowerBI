@@ -1,0 +1,501 @@
+user_id,platform,network,country,event_time
+1,iOS,organic,TR,2025-04-28
+2,Android,Facebook Ads,TR,2025-04-07
+3,Android,Google Ads,US,2025-04-03
+4,iOS,Facebook Ads,US,2025-04-23
+5,iOS,Google Ads,US,2025-04-28
+6,Android,Facebook Ads,US,2025-04-14
+7,iOS,Facebook Ads,TR,2025-04-24
+8,iOS,Google Ads,TR,2025-04-10
+9,iOS,organic,DE,2025-04-16
+10,iOS,organic,FR,2025-04-16
+11,iOS,organic,FR,2025-04-22
+12,Android,Apple Search Ads,DE,2025-04-10
+13,iOS,Apple Search Ads,BR,2025-04-25
+14,iOS,organic,US,2025-04-13
+15,Android,Facebook Ads,US,2025-04-06
+16,Android,Apple Search Ads,US,2025-04-12
+17,Android,organic,DE,2025-04-09
+18,iOS,Facebook Ads,FR,2025-04-13
+19,iOS,Apple Search Ads,US,2025-04-04
+20,Android,organic,BR,2025-04-24
+21,Android,Facebook Ads,US,2025-04-11
+22,Android,organic,BR,2025-04-20
+23,iOS,Apple Search Ads,US,2025-04-18
+24,iOS,Apple Search Ads,US,2025-04-26
+25,iOS,Apple Search Ads,TR,2025-04-11
+26,Android,organic,US,2025-04-25
+27,Android,Google Ads,US,2025-04-21
+28,Android,Google Ads,US,2025-04-04
+29,Android,organic,FR,2025-04-18
+30,iOS,Google Ads,TR,2025-04-01
+31,iOS,organic,US,2025-04-27
+32,iOS,Facebook Ads,DE,2025-04-07
+33,iOS,organic,DE,2025-04-06
+34,Android,organic,US,2025-04-15
+35,iOS,organic,TR,2025-04-18
+36,iOS,Facebook Ads,US,2025-04-24
+37,iOS,organic,US,2025-04-11
+38,Android,Facebook Ads,DE,2025-04-20
+39,Android,organic,US,2025-04-24
+40,Android,organic,TR,2025-04-15
+41,iOS,Facebook Ads,DE,2025-04-16
+42,iOS,Facebook Ads,US,2025-04-07
+43,Android,organic,TR,2025-04-21
+44,iOS,Facebook Ads,US,2025-04-10
+45,iOS,Google Ads,BR,2025-04-26
+46,Android,Facebook Ads,TR,2025-04-12
+47,Android,organic,FR,2025-04-24
+48,iOS,organic,TR,2025-04-14
+49,Android,Google Ads,US,2025-04-25
+50,iOS,organic,DE,2025-04-05
+51,Android,Google Ads,BR,2025-04-26
+52,iOS,Facebook Ads,DE,2025-04-21
+53,Android,Apple Search Ads,FR,2025-04-18
+54,Android,Facebook Ads,FR,2025-04-05
+55,iOS,Apple Search Ads,US,2025-04-03
+56,Android,organic,US,2025-04-23
+57,Android,Facebook Ads,DE,2025-04-26
+58,Android,organic,TR,2025-04-05
+59,iOS,organic,FR,2025-04-24
+60,iOS,Facebook Ads,BR,2025-04-17
+61,iOS,Google Ads,US,2025-04-19
+62,Android,Apple Search Ads,US,2025-04-19
+63,Android,Facebook Ads,FR,2025-04-25
+64,Android,organic,US,2025-04-21
+65,Android,organic,FR,2025-04-12
+66,Android,Facebook Ads,TR,2025-04-25
+67,Android,organic,DE,2025-04-29
+68,Android,organic,US,2025-04-09
+69,iOS,organic,DE,2025-04-01
+70,Android,organic,TR,2025-04-18
+71,Android,organic,TR,2025-04-21
+72,iOS,organic,US,2025-04-04
+73,Android,organic,DE,2025-04-10
+74,iOS,organic,FR,2025-04-25
+75,iOS,Apple Search Ads,US,2025-04-07
+76,iOS,organic,US,2025-04-22
+77,Android,organic,US,2025-04-23
+78,iOS,Facebook Ads,DE,2025-04-01
+79,Android,organic,DE,2025-04-17
+80,Android,Apple Search Ads,TR,2025-04-24
+81,Android,Facebook Ads,US,2025-04-29
+82,iOS,organic,US,2025-04-29
+83,Android,organic,TR,2025-04-02
+84,Android,Google Ads,TR,2025-04-28
+85,iOS,Apple Search Ads,BR,2025-04-26
+86,Android,organic,US,2025-04-11
+87,Android,Facebook Ads,DE,2025-04-09
+88,Android,organic,TR,2025-04-07
+89,Android,Apple Search Ads,TR,2025-04-22
+90,Android,organic,DE,2025-04-17
+91,Android,Apple Search Ads,DE,2025-04-17
+92,iOS,Facebook Ads,BR,2025-04-02
+93,Android,Facebook Ads,US,2025-04-06
+94,Android,Facebook Ads,US,2025-04-14
+95,iOS,organic,DE,2025-04-06
+96,Android,organic,TR,2025-04-02
+97,iOS,organic,US,2025-04-01
+98,Android,organic,US,2025-04-10
+99,Android,Facebook Ads,US,2025-04-21
+100,Android,organic,FR,2025-04-05
+101,Android,organic,US,2025-04-02
+102,Android,Apple Search Ads,US,2025-04-22
+103,Android,Google Ads,US,2025-04-16
+104,Android,Apple Search Ads,US,2025-04-25
+105,Android,Apple Search Ads,US,2025-04-02
+106,Android,organic,TR,2025-04-10
+107,Android,organic,US,2025-04-02
+108,Android,Facebook Ads,FR,2025-04-16
+109,Android,Facebook Ads,US,2025-04-16
+110,iOS,organic,TR,2025-04-19
+111,Android,Google Ads,FR,2025-04-29
+112,iOS,organic,DE,2025-04-07
+113,iOS,organic,TR,2025-04-22
+114,Android,Facebook Ads,US,2025-04-12
+115,iOS,Facebook Ads,US,2025-04-24
+116,iOS,Facebook Ads,DE,2025-04-15
+117,Android,organic,BR,2025-04-08
+118,Android,Google Ads,DE,2025-04-06
+119,iOS,organic,TR,2025-04-28
+120,iOS,organic,DE,2025-04-27
+121,Android,Google Ads,TR,2025-04-10
+122,Android,Apple Search Ads,US,2025-04-03
+123,Android,Google Ads,TR,2025-04-19
+124,Android,Google Ads,BR,2025-04-17
+125,iOS,Facebook Ads,US,2025-04-07
+126,Android,Facebook Ads,DE,2025-04-21
+127,Android,organic,US,2025-04-20
+128,iOS,organic,TR,2025-04-26
+129,Android,organic,US,2025-04-04
+130,Android,organic,TR,2025-04-14
+131,iOS,Facebook Ads,FR,2025-04-20
+132,iOS,organic,US,2025-04-22
+133,Android,organic,DE,2025-04-15
+134,Android,organic,FR,2025-04-24
+135,Android,Facebook Ads,BR,2025-04-08
+136,Android,organic,US,2025-04-21
+137,Android,Google Ads,US,2025-04-15
+138,Android,organic,US,2025-04-22
+139,Android,organic,BR,2025-04-20
+140,Android,Facebook Ads,BR,2025-04-28
+141,Android,Google Ads,TR,2025-04-14
+142,Android,organic,FR,2025-04-27
+143,Android,Facebook Ads,TR,2025-04-29
+144,Android,Facebook Ads,DE,2025-04-09
+145,Android,organic,US,2025-04-08
+146,iOS,Google Ads,FR,2025-04-26
+147,Android,Facebook Ads,US,2025-04-28
+148,iOS,Facebook Ads,FR,2025-04-26
+149,iOS,Google Ads,FR,2025-04-17
+150,Android,Google Ads,DE,2025-04-02
+151,Android,Facebook Ads,US,2025-04-25
+152,Android,Google Ads,US,2025-04-24
+153,Android,Facebook Ads,US,2025-04-30
+154,iOS,Facebook Ads,US,2025-04-03
+155,Android,Facebook Ads,US,2025-04-08
+156,Android,Facebook Ads,BR,2025-04-12
+157,Android,organic,TR,2025-04-01
+158,Android,Google Ads,US,2025-04-10
+159,iOS,Google Ads,US,2025-04-20
+160,Android,organic,TR,2025-04-03
+161,Android,Google Ads,DE,2025-04-06
+162,iOS,organic,TR,2025-04-07
+163,iOS,organic,BR,2025-04-20
+164,Android,Facebook Ads,TR,2025-04-23
+165,Android,organic,BR,2025-04-25
+166,Android,Google Ads,FR,2025-04-27
+167,Android,Google Ads,US,2025-04-18
+168,Android,Facebook Ads,BR,2025-04-11
+169,Android,organic,US,2025-04-19
+170,Android,organic,FR,2025-04-05
+171,Android,Facebook Ads,US,2025-04-19
+172,iOS,Apple Search Ads,FR,2025-04-11
+173,Android,Facebook Ads,FR,2025-04-24
+174,Android,organic,FR,2025-04-12
+175,Android,Facebook Ads,FR,2025-04-10
+176,iOS,Facebook Ads,US,2025-04-08
+177,Android,Facebook Ads,US,2025-04-24
+178,Android,organic,TR,2025-04-28
+179,iOS,Facebook Ads,US,2025-04-28
+180,iOS,Facebook Ads,DE,2025-04-09
+181,iOS,Apple Search Ads,US,2025-04-04
+182,Android,organic,BR,2025-04-05
+183,Android,Facebook Ads,DE,2025-04-21
+184,iOS,Apple Search Ads,FR,2025-04-08
+185,iOS,organic,US,2025-04-23
+186,Android,Apple Search Ads,FR,2025-04-09
+187,Android,Facebook Ads,BR,2025-04-15
+188,Android,organic,TR,2025-04-15
+189,iOS,organic,DE,2025-04-16
+190,Android,Facebook Ads,FR,2025-04-14
+191,Android,organic,US,2025-04-08
+192,Android,Facebook Ads,TR,2025-04-18
+193,Android,organic,US,2025-04-10
+194,Android,Facebook Ads,US,2025-04-28
+195,Android,organic,US,2025-04-20
+196,iOS,Google Ads,US,2025-04-06
+197,Android,Apple Search Ads,US,2025-04-12
+198,Android,Apple Search Ads,US,2025-04-02
+199,Android,Facebook Ads,BR,2025-04-07
+200,Android,organic,TR,2025-04-16
+201,Android,Facebook Ads,BR,2025-04-03
+202,Android,organic,TR,2025-04-13
+203,Android,organic,US,2025-04-03
+204,Android,organic,TR,2025-04-27
+205,Android,organic,TR,2025-04-18
+206,iOS,Facebook Ads,US,2025-04-11
+207,Android,Facebook Ads,DE,2025-04-08
+208,iOS,organic,US,2025-04-06
+209,Android,organic,DE,2025-04-01
+210,iOS,Apple Search Ads,DE,2025-04-28
+211,iOS,organic,US,2025-04-01
+212,Android,organic,US,2025-04-23
+213,Android,organic,FR,2025-04-08
+214,Android,Facebook Ads,TR,2025-04-05
+215,Android,Facebook Ads,US,2025-04-28
+216,iOS,organic,BR,2025-04-16
+217,iOS,organic,US,2025-04-11
+218,iOS,Facebook Ads,DE,2025-04-05
+219,Android,Facebook Ads,BR,2025-04-04
+220,iOS,organic,US,2025-04-30
+221,iOS,Apple Search Ads,US,2025-04-06
+222,Android,organic,US,2025-04-14
+223,Android,organic,US,2025-04-22
+224,iOS,Apple Search Ads,US,2025-04-19
+225,Android,organic,DE,2025-04-09
+226,iOS,Facebook Ads,US,2025-04-12
+227,Android,organic,TR,2025-04-11
+228,iOS,organic,BR,2025-04-14
+229,Android,Apple Search Ads,FR,2025-04-23
+230,Android,organic,DE,2025-04-16
+231,Android,Google Ads,US,2025-04-01
+232,iOS,organic,DE,2025-04-13
+233,iOS,organic,TR,2025-04-23
+234,Android,organic,TR,2025-04-21
+235,Android,Facebook Ads,US,2025-04-21
+236,iOS,organic,FR,2025-04-30
+237,Android,Google Ads,TR,2025-04-13
+238,iOS,organic,US,2025-04-02
+239,Android,Apple Search Ads,US,2025-04-04
+240,Android,organic,TR,2025-04-28
+241,Android,Google Ads,FR,2025-04-06
+242,Android,Facebook Ads,DE,2025-04-26
+243,iOS,Facebook Ads,FR,2025-04-27
+244,Android,Google Ads,US,2025-04-23
+245,Android,Facebook Ads,TR,2025-04-27
+246,iOS,Facebook Ads,TR,2025-04-05
+247,Android,organic,US,2025-04-25
+248,Android,organic,US,2025-04-03
+249,iOS,Apple Search Ads,FR,2025-04-01
+250,iOS,Facebook Ads,US,2025-04-04
+251,Android,Facebook Ads,TR,2025-04-25
+252,iOS,organic,US,2025-04-20
+253,iOS,organic,US,2025-04-02
+254,Android,organic,US,2025-04-26
+255,Android,Facebook Ads,BR,2025-04-30
+256,iOS,organic,FR,2025-04-30
+257,iOS,organic,BR,2025-04-05
+258,Android,organic,TR,2025-04-03
+259,iOS,organic,US,2025-04-29
+260,iOS,Facebook Ads,TR,2025-04-28
+261,Android,organic,TR,2025-04-29
+262,Android,Facebook Ads,FR,2025-04-09
+263,Android,organic,US,2025-04-20
+264,iOS,organic,TR,2025-04-06
+265,Android,organic,US,2025-04-18
+266,Android,organic,US,2025-04-06
+267,iOS,organic,DE,2025-04-19
+268,iOS,organic,TR,2025-04-28
+269,Android,Facebook Ads,US,2025-04-12
+270,iOS,organic,US,2025-04-25
+271,Android,Facebook Ads,TR,2025-04-11
+272,iOS,Google Ads,FR,2025-04-02
+273,Android,Facebook Ads,FR,2025-04-15
+274,Android,organic,BR,2025-04-12
+275,iOS,organic,FR,2025-04-12
+276,Android,organic,US,2025-04-09
+277,Android,organic,DE,2025-04-21
+278,iOS,Apple Search Ads,TR,2025-04-24
+279,iOS,organic,US,2025-04-02
+280,iOS,organic,FR,2025-04-22
+281,iOS,Facebook Ads,US,2025-04-03
+282,Android,Facebook Ads,BR,2025-04-12
+283,Android,Facebook Ads,TR,2025-04-28
+284,Android,organic,DE,2025-04-30
+285,Android,organic,DE,2025-04-26
+286,iOS,Facebook Ads,FR,2025-04-16
+287,Android,organic,DE,2025-04-21
+288,Android,organic,DE,2025-04-28
+289,Android,organic,US,2025-04-24
+290,iOS,organic,TR,2025-04-26
+291,Android,organic,US,2025-04-30
+292,Android,organic,DE,2025-04-01
+293,Android,Facebook Ads,TR,2025-04-21
+294,iOS,Facebook Ads,DE,2025-04-03
+295,Android,Google Ads,US,2025-04-20
+296,iOS,organic,US,2025-04-02
+297,iOS,organic,DE,2025-04-09
+298,Android,organic,US,2025-04-19
+299,iOS,Facebook Ads,US,2025-04-15
+300,iOS,Facebook Ads,US,2025-04-18
+301,iOS,organic,BR,2025-04-26
+302,Android,Apple Search Ads,DE,2025-04-11
+303,Android,organic,US,2025-04-25
+304,iOS,Facebook Ads,US,2025-04-23
+305,Android,Facebook Ads,US,2025-04-16
+306,iOS,Google Ads,FR,2025-04-22
+307,iOS,Facebook Ads,DE,2025-04-17
+308,iOS,Google Ads,US,2025-04-05
+309,Android,organic,US,2025-04-12
+310,Android,Google Ads,US,2025-04-11
+311,iOS,organic,DE,2025-04-30
+312,iOS,Google Ads,FR,2025-04-15
+313,Android,Facebook Ads,US,2025-04-27
+314,iOS,Google Ads,US,2025-04-03
+315,iOS,organic,US,2025-04-01
+316,Android,Facebook Ads,BR,2025-04-20
+317,Android,Facebook Ads,US,2025-04-29
+318,Android,Facebook Ads,FR,2025-04-16
+319,Android,organic,DE,2025-04-02
+320,Android,organic,US,2025-04-02
+321,iOS,organic,US,2025-04-03
+322,Android,organic,US,2025-04-08
+323,Android,Google Ads,DE,2025-04-24
+324,Android,organic,FR,2025-04-28
+325,Android,Apple Search Ads,DE,2025-04-15
+326,iOS,organic,TR,2025-04-07
+327,Android,organic,US,2025-04-06
+328,Android,Facebook Ads,BR,2025-04-09
+329,iOS,Facebook Ads,FR,2025-04-20
+330,Android,organic,US,2025-04-28
+331,Android,Facebook Ads,BR,2025-04-01
+332,Android,Facebook Ads,DE,2025-04-08
+333,Android,organic,TR,2025-04-23
+334,Android,Apple Search Ads,DE,2025-04-23
+335,Android,Apple Search Ads,FR,2025-04-03
+336,Android,Facebook Ads,DE,2025-04-04
+337,iOS,organic,US,2025-04-26
+338,Android,Facebook Ads,US,2025-04-25
+339,Android,organic,BR,2025-04-15
+340,iOS,organic,US,2025-04-06
+341,Android,organic,US,2025-04-15
+342,iOS,organic,TR,2025-04-21
+343,Android,Google Ads,TR,2025-04-03
+344,iOS,Facebook Ads,DE,2025-04-25
+345,Android,Facebook Ads,BR,2025-04-21
+346,Android,organic,US,2025-04-21
+347,Android,organic,US,2025-04-14
+348,iOS,organic,US,2025-04-20
+349,Android,Apple Search Ads,FR,2025-04-14
+350,Android,organic,DE,2025-04-04
+351,Android,Google Ads,US,2025-04-12
+352,iOS,Facebook Ads,FR,2025-04-17
+353,Android,organic,FR,2025-04-07
+354,iOS,Facebook Ads,FR,2025-04-09
+355,Android,organic,BR,2025-04-03
+356,Android,Google Ads,US,2025-04-28
+357,Android,Apple Search Ads,FR,2025-04-13
+358,Android,organic,TR,2025-04-15
+359,Android,organic,FR,2025-04-18
+360,Android,Facebook Ads,DE,2025-04-19
+361,iOS,Apple Search Ads,FR,2025-04-01
+362,Android,organic,DE,2025-04-06
+363,Android,Facebook Ads,US,2025-04-27
+364,Android,Facebook Ads,TR,2025-04-27
+365,Android,Facebook Ads,BR,2025-04-23
+366,Android,organic,BR,2025-04-27
+367,Android,Facebook Ads,US,2025-04-27
+368,Android,Apple Search Ads,US,2025-04-02
+369,iOS,organic,US,2025-04-24
+370,iOS,organic,DE,2025-04-14
+371,Android,Apple Search Ads,FR,2025-04-06
+372,Android,organic,US,2025-04-14
+373,iOS,Google Ads,TR,2025-04-04
+374,Android,organic,FR,2025-04-21
+375,Android,organic,DE,2025-04-08
+376,Android,Google Ads,TR,2025-04-30
+377,iOS,organic,TR,2025-04-03
+378,iOS,Facebook Ads,TR,2025-04-19
+379,Android,organic,US,2025-04-30
+380,Android,Facebook Ads,TR,2025-04-14
+381,Android,organic,DE,2025-04-27
+382,iOS,organic,FR,2025-04-20
+383,Android,Apple Search Ads,DE,2025-04-17
+384,Android,organic,FR,2025-04-25
+385,iOS,Facebook Ads,US,2025-04-08
+386,Android,organic,TR,2025-04-24
+387,iOS,Facebook Ads,US,2025-04-14
+388,Android,organic,US,2025-04-26
+389,Android,Apple Search Ads,DE,2025-04-06
+390,Android,organic,BR,2025-04-23
+391,iOS,organic,US,2025-04-22
+392,iOS,organic,TR,2025-04-16
+393,iOS,organic,FR,2025-04-25
+394,Android,Facebook Ads,US,2025-04-19
+395,iOS,organic,TR,2025-04-14
+396,Android,Google Ads,DE,2025-04-19
+397,Android,organic,DE,2025-04-03
+398,iOS,organic,US,2025-04-10
+399,Android,Facebook Ads,US,2025-04-19
+400,Android,Facebook Ads,FR,2025-04-09
+401,Android,organic,TR,2025-04-28
+402,Android,organic,US,2025-04-20
+403,Android,organic,FR,2025-04-13
+404,Android,Facebook Ads,US,2025-04-07
+405,Android,Facebook Ads,DE,2025-04-14
+406,iOS,organic,US,2025-04-09
+407,iOS,Google Ads,BR,2025-04-27
+408,Android,Google Ads,US,2025-04-28
+409,Android,Facebook Ads,US,2025-04-23
+410,Android,Google Ads,US,2025-04-25
+411,Android,organic,US,2025-04-28
+412,Android,organic,FR,2025-04-19
+413,iOS,organic,BR,2025-04-15
+414,Android,organic,US,2025-04-20
+415,Android,Facebook Ads,TR,2025-04-14
+416,Android,Apple Search Ads,DE,2025-04-24
+417,Android,organic,FR,2025-04-06
+418,iOS,organic,TR,2025-04-21
+419,iOS,organic,US,2025-04-29
+420,Android,Apple Search Ads,TR,2025-04-04
+421,iOS,organic,DE,2025-04-08
+422,Android,Facebook Ads,US,2025-04-17
+423,iOS,organic,DE,2025-04-30
+424,iOS,organic,US,2025-04-09
+425,Android,Apple Search Ads,FR,2025-04-01
+426,Android,Apple Search Ads,US,2025-04-24
+427,Android,organic,TR,2025-04-20
+428,Android,Apple Search Ads,TR,2025-04-25
+429,iOS,Facebook Ads,DE,2025-04-14
+430,Android,Google Ads,US,2025-04-11
+431,Android,organic,TR,2025-04-21
+432,iOS,Facebook Ads,TR,2025-04-03
+433,iOS,organic,TR,2025-04-09
+434,Android,Facebook Ads,DE,2025-04-27
+435,Android,organic,DE,2025-04-14
+436,Android,organic,FR,2025-04-30
+437,Android,organic,US,2025-04-09
+438,iOS,Facebook Ads,FR,2025-04-04
+439,Android,organic,TR,2025-04-27
+440,Android,Facebook Ads,US,2025-04-04
+441,Android,Apple Search Ads,US,2025-04-28
+442,Android,organic,US,2025-04-08
+443,iOS,Facebook Ads,FR,2025-04-02
+444,iOS,organic,DE,2025-04-09
+445,Android,Google Ads,FR,2025-04-29
+446,Android,organic,TR,2025-04-14
+447,Android,Facebook Ads,TR,2025-04-22
+448,iOS,Google Ads,US,2025-04-09
+449,iOS,Apple Search Ads,US,2025-04-24
+450,Android,Facebook Ads,TR,2025-04-23
+451,iOS,organic,US,2025-04-16
+452,iOS,Facebook Ads,US,2025-04-29
+453,Android,Google Ads,TR,2025-04-30
+454,iOS,Facebook Ads,DE,2025-04-17
+455,Android,organic,BR,2025-04-16
+456,Android,Apple Search Ads,BR,2025-04-30
+457,Android,Facebook Ads,DE,2025-04-12
+458,Android,Facebook Ads,TR,2025-04-03
+459,Android,organic,DE,2025-04-11
+460,iOS,Facebook Ads,FR,2025-04-14
+461,Android,organic,US,2025-04-18
+462,iOS,Facebook Ads,TR,2025-04-21
+463,Android,organic,FR,2025-04-21
+464,Android,Facebook Ads,US,2025-04-05
+465,Android,Apple Search Ads,TR,2025-04-16
+466,Android,organic,TR,2025-04-20
+467,iOS,Apple Search Ads,US,2025-04-05
+468,Android,organic,US,2025-04-03
+469,Android,Google Ads,US,2025-04-12
+470,Android,Facebook Ads,US,2025-04-01
+471,iOS,Facebook Ads,US,2025-04-21
+472,iOS,Facebook Ads,FR,2025-04-29
+473,iOS,Google Ads,US,2025-04-09
+474,Android,organic,TR,2025-04-29
+475,Android,organic,US,2025-04-09
+476,Android,Facebook Ads,BR,2025-04-04
+477,Android,Google Ads,US,2025-04-03
+478,Android,Facebook Ads,TR,2025-04-17
+479,Android,Facebook Ads,FR,2025-04-02
+480,Android,organic,FR,2025-04-24
+481,Android,Google Ads,US,2025-04-01
+482,iOS,organic,FR,2025-04-08
+483,Android,Facebook Ads,TR,2025-04-13
+484,Android,organic,TR,2025-04-23
+485,iOS,organic,US,2025-04-15
+486,Android,organic,US,2025-04-08
+487,iOS,organic,DE,2025-04-12
+488,Android,Facebook Ads,TR,2025-04-22
+489,Android,organic,TR,2025-04-12
+490,iOS,organic,DE,2025-04-14
+491,iOS,organic,FR,2025-04-15
+492,iOS,organic,US,2025-04-15
+493,Android,organic,DE,2025-04-09
+494,Android,organic,US,2025-04-19
+495,Android,Facebook Ads,FR,2025-04-26
+496,Android,Facebook Ads,DE,2025-04-20
+497,iOS,Facebook Ads,BR,2025-04-29
+498,Android,organic,US,2025-04-22
+499,iOS,organic,US,2025-04-08
+500,Android,Google Ads,US,2025-04-21
